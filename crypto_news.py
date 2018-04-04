@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+
 """
 Generate markdown files based on coindesk rss feed and price trigger (change % last hr) on coinmarketcap
 
