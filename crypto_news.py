@@ -2,7 +2,7 @@
 
 
 """
-Generate markdown files based on coindesk rss feed and price trigger (change % last hr) on coinmarketcap
+Generate markdown files based on coindesk rss data feed and price trigger (change % last hr) on coinmarketcap
 
 """
 
