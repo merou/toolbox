@@ -3,7 +3,7 @@
 
 
 """
-simple telegram bot to send pics dumps by - e.g fswebcam 
+simple telegram bot to send pics dumps by - e.g, fswebcam 
 create bot with BotFather, add your token
 """
 
